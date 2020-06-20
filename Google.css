@@ -1,0 +1,69 @@
+/* extra padding margin khatam krta ha yeh  */
+body {
+  font-family: sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+}
+.li1 {
+  float: right;
+  margin-right: 178px;
+  margin-top: 18px;
+}
+.li2 {
+  float: right;
+  margin-right: -100px;
+  margin-top: 18px;
+}
+.lia1 {
+  text-decoration: black;
+  color: black;
+  font-size: small;
+}
+.Googlelogo {
+  margin-top: 205px;
+  margin-left: 43%;
+  height: 90px;
+}
+.searchbox {
+  margin-top: 30px;
+  margin-left: 33%;
+  border-radius: 200px;
+  width: 600px;
+  height: 45px;
+  border-style: groove;
+}
+.button1 {
+  display: inline-block;
+  margin: 39px -767px 39px 794px;
+  width: 131px;
+  height: 45px;
+}
+.para {
+  margin: -13px -4px 8px 840px;
+}
+.p {
+  display: inline-block;
+  margin-top: 18%;
+  padding: 17px 1834px 14px 11px;
+}
+.nav2a {
+  text-decoration: none;
+  color: black;
+}
+.nav2 {
+  display: inline-block;
+  padding-left: 10px;
+}
+.nav3a {
+  text-decoration: none;
+  color: black;
+}
+.nav3 {
+  float: right;
+  margin: -19px 20px 10px 10px;
+}
